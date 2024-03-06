@@ -65,4 +65,4 @@
 #Questão 5
 # string = input("Digite uma string para ser invertida: ")
 # invertido = string[::-1]
-# print(f"String original: {string}\nString invertida: {invertido} ",)
+# print(f"String original: {string}\nString invertida: {invertido} ")
