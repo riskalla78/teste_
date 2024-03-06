@@ -7,7 +7,7 @@
 #     k= k + 1
 #     soma = soma + k
 # print(soma)
-
+# output = 91
 # Questão 2
 # def gera_sequencia_fibonacci(ate_numero):
     
